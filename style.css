@@ -1,0 +1,113 @@
+
+body {
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Roboto", sans-serif;
+}
+/* :root {
+    --назва-кольору: сам колір;
+}
+    селектор: var(--назва-кольору); */
+.webstudio-footer {
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
+.webstudio-header {
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: black;
+}
+button {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
+}
+img+p {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+    letter-spacing: 0.06em;
+}
+ul p:last-of-type {
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+address {
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: black;
+}
+.contact-link {
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+address {
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
+span {
+    color: #2196F3;
+}
+a {
+    text-decoration: none;
+    color: #212121;
+} 
+a:hover {
+    color: #2196F3;
+}
+a:focus {
+    color: black;
+}
+ul {
+    list-style: none;
+}
+footer {
+    background: #2F303A;
+}
+h1 {
+    font-family: Roboto;
+    font-size: 44px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0.06em;
+    color: #FFFFFF;
+    text-align: center;
+}
+.hero-section {
+    background-color: #2F303A;
+}
+.hero-button {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: white;
+    background-color: #2196F3;
+}
+.homework {
+    width: 350px;
+    height: 220px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-bottom: 30px;
+    border: red 2px dashed;
+    background: #00ff00;
+}
